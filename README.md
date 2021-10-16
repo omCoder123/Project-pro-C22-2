@@ -1,1 +1,1 @@
-# Project-pro-C22-2
+# project-c23-template
